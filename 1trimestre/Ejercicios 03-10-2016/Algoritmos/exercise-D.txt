@@ -1,0 +1,22 @@
+Proceso ejercicio_D
+	Definir a,b,c,d Como Entero;
+	
+	a = 18;
+	b = 18;
+	c = 18;
+	d = 18;
+	a = a + b;
+	b = a - b;
+	c = a + b;
+	d = a - b;
+	a = a - b;
+	b = a + b;
+	c = a - b;
+	d = a + b;
+		
+	Escribir a;
+	Escribir b;
+	Escribir c;
+	Escribir d;
+
+FinProceso

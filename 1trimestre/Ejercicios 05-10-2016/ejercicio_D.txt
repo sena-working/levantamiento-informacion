@@ -1,0 +1,9 @@
+Proceso Ejercicio_D
+	Definir a,b,c,result Como Real;
+	a = 3;
+	b = 5;
+	c = 8;
+	result = (a + ( b / ( a + b + (b / c)) ))   /  ( a  + ( b / ( c + a ) ))  ; 
+	Escribir result;
+FinProceso
+
